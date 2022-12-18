@@ -2391,6 +2391,11 @@
   resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-enums/-/commons-js-enums-1.1.0-dev.3.tgz#42f25129c91d31d90730f56c42f4e872e3291ae3"
   integrity sha512-wghtEEr//0q04JKgZFnzxsMAQKntRdNsFPJI8Pnu8K9zBVzICsDR0fkph4r20wTdtwVvCFi2U3+MoY1a7NFpGg==
 
+"@starkware-industries/commons-js-enums@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-enums/-/commons-js-enums-1.2.0.tgz#bac67c5c381fcd80e9923a17d45a416dc59a7977"
+  integrity sha512-/LOa2unbitvjpcWy+sU9RPdeMkQsOMUep5Har0kTL2NYxUUdRizXK5EkccGg0EczOyrAQNjK0v3iO404nybc2Q==
+
 "@starkware-industries/commons-js-libs@1.2.0-dev.4":
   version "1.2.0-dev.4"
   resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-libs/-/commons-js-libs-1.2.0-dev.4.tgz#1b7ef0d1e4f12ea09fad9a0f66cea1e12583bed9"
