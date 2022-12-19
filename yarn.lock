@@ -2403,14 +2403,12 @@
     web3-eth-contract "^1.7.5"
     web3-utils "^1.7.5"
 
-"@starkware-industries/commons-js-utils@1.0.0-dev.5":
-  version "1.0.0-dev.5"
-  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-utils/-/commons-js-utils-1.0.0-dev.5.tgz#75215f58498728dd6dd99c9883a9528803d07552"
-  integrity sha512-4Oy8D3rFGYZQppZye9A/Vhr86kVCjL2yuUP9xUPiGRLlFZUg+t/3D9Ph7Ij4Ph6C1OUTuy2neBs8nV3GdqC6cA==
+"@starkware-industries/commons-js-utils@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@starkware-industries/commons-js-utils/-/commons-js-utils-1.1.0.tgz#30b7d0f345cbd073bc6dd2e79c2c0e22b6f9b5e7"
+  integrity sha512-XNXMPw2RKofFbyvlBe2zW9Vjvps2OoYaWVMbzM1lpqoLiOsYkpr/tYSQm7s71YNgcKCOBIP3L1bPlHZ/Oliylg==
   dependencies:
     "@normalizex/ethjs-unit" "^0.1.8"
-    "@starkware-industries/commons-js-enums" "1.1.0-dev.3"
-    "@starkware-industries/commons-js-libs" "1.2.0-dev.4"
     "@types/uuid" "^8.3.4"
     axios "^0.26.0"
     js-logger "^1.6.1"
