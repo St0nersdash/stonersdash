@@ -100,7 +100,7 @@
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
     "node-sass": "^6.0.1",
-    "postcss": "^8.4.4",
+    "postcss": "^8.4.31",
     "prettier": "^2.5.1",
     "prettier-stylelint": "^0.4.2",
     "prop-types": "^15.7.2",
